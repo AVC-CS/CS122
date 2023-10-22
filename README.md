@@ -1,2 +1,2 @@
-# CS07
-## Introduction to Computer Programming
+# CS122
+## Python Programming
